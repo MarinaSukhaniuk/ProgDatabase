@@ -1,0 +1,268 @@
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+c:\users\marina\documents\visual studio 2012\Projects\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\rgr2015\v3\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\rgr2015\v3\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\rgr2015\v3\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\rgr2015\v3\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\v5\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v6\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\v7 — копия\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 5(Все кроме поиска)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 6( Поиск есть)\Сейчас правим - ВЛАД\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form1.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 7(Админка)\v7_2\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия)\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 8(Правка) (осталось дату кому нужно писать и у кого закон гарантия) — копия\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 9(Правка)\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\is3422\Desktop\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\is3422\Desktop\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\is3422\Desktop\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\is3422\Desktop\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+F:\rgr_34\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+F:\rgr_34\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+F:\rgr_34\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+F:\rgr_34\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 10(подсазки)\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+D:\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.exe.config
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.exe
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\bin\Debug\rgr_34.pdb
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.add_company.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.chat.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.clients_form.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.admin_log.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.EnterForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.Form3.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.ManagerForm.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.Properties.Resources.resources
+C:\Users\Vladislav\MEGA\Общее учеба\Наши\rgr2015\Версия 11\rgr_34\rgr_34\obj\Debug\rgr_34.csproj.GenerateResource.Cache
